@@ -13,5 +13,5 @@ Users should be able to:
 
 ### Links
 
-
 ### Built with
+-   Vanilla HTML, CSS & JAVASCRIPT
